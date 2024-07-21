@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Incident)">23ae2a049367c610be6d385efaba10cd</button>
+        <item_parameter display_value="Incident company">ebae2a049367c610be6d385efaba10c8</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-17 16:50:38</sys_created_on>
+        <sys_id>27ae2a049367c610be6d385efaba10da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ebae2a049367c610be6d385efaba10c8</sys_name>
+        <sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_27ae2a049367c610be6d385efaba10da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-17 16:50:38</sys_updated_on>
+        <ui_parameter display_value="Company">27ae2a049367c610be6d385efaba10d3</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

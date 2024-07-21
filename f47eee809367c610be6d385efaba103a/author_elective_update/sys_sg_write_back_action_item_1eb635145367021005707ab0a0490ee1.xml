@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="DELETE">
+        <description>This is used for creating a new ticket</description>
+        <execution_script/>
+        <name>Create a New Ticket</name>
+        <parameter_screen/>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-18 07:25:31</sys_created_on>
+        <sys_id>1eb635145367021005707ab0a0490ee1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create a New Ticket</sys_name>
+        <sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_1eb635145367021005707ab0a0490ee1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-18 07:25:31</sys_updated_on>
+        <table>x_1040499_nexgenhd_my_helpdesk</table>
+        <template/>
+        <type>new</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="DELETE" query="documentkey=1eb635145367021005707ab0a0490ee1"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</application>
+        <file_path/>
+        <instance_id>4ffbec40db4ab514199b1729139619aa</instance_id>
+        <instance_name>dev188595</instance_name>
+        <name>sys_sg_write_back_action_item_1eb635145367021005707ab0a0490ee1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item"><sys_sg_write_back_action_item action="INSERT_OR_UPDATE"><description>This is used for creating a new ticket</description><execution_script/><name>Create a New Ticket</name><parameter_screen/><query_condition/><sys_class_name>sys_sg_write_back_action_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-18 07:25:31</sys_created_on><sys_id>1eb635145367021005707ab0a0490ee1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create a New Ticket</sys_name><sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package><sys_policy/><sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope><sys_update_name>sys_sg_write_back_action_item_1eb635145367021005707ab0a0490ee1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-18 07:25:31</sys_updated_on><table>x_1040499_nexgenhd_my_helpdesk</table><template/><type>new</type><use_current_record_as_condition>true</use_current_record_as_condition><use_fields_for_ref_lookup>false</use_fields_for_ref_lookup></sys_sg_write_back_action_item><sys_translated_text action="delete_multiple" query="documentkey=1eb635145367021005707ab0a0490ee1"/></record_update>]]></payload>
+        <payload_hash>-1923169597</payload_hash>
+        <record_name>Create a New Ticket</record_name>
+        <reverted_from/>
+        <source>bc7eee809367c610be6d385efaba103c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-18 07:25:31</sys_created_on>
+        <sys_id>dbe67d145367021005707ab0a0490eda</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190c4bb5bc10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-18 07:25:31</sys_updated_on>
+        <type>Action item</type>
+        <update_guid>dfe67d14ec6702105e7bc79275fa81d9</update_guid>
+        <update_guid_history>dfe67d14ec6702105e7bc79275fa81d9:-1923169597</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-18 07:43:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_write_back_action_item">sys_sg_write_back_action_item</sys_db_object>
+        <sys_id>2a9749fcad124fb087846137ad1da100</sys_id>
+        <sys_metadata>1eb635145367021005707ab0a0490ee1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create a New Ticket</sys_name>
+        <sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope>
+        <sys_scope_delete display_value="">1ba45732bc0f4863bfe551469ae2bf39</sys_scope_delete>
+        <sys_update_name>sys_sg_write_back_action_item_1eb635145367021005707ab0a0490ee1</sys_update_name>
+        <sys_update_version display_value="sys_sg_write_back_action_item_1eb635145367021005707ab0a0490ee1">dbe67d145367021005707ab0a0490eda</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-18 07:43:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
