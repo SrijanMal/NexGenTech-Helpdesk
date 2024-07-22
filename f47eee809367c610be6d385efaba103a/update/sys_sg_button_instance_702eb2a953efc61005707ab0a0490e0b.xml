@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
     <sys_sg_button_instance action="INSERT_OR_UPDATE">
         <active>true</active>
-        <button display_value="Create New">fd4e4b5153ab861005707ab0a0490e47</button>
+        <button display_value="New Record">6d9cbae553efc61005707ab0a0490e69</button>
         <color_theme/>
         <description/>
         <disable_offline>false</disable_offline>
         <field_name/>
         <icon/>
-        <label>Create New</label>
-        <location>top</location>
-        <name>Create New</name>
-        <order>30</order>
-        <parent>4efbe1145327021005707ab0a0490e82</parent>
-        <parent_table>sys_sg_screen</parent_table>
+        <label>New</label>
+        <location>leading_swipe</location>
+        <name>New</name>
+        <order>20</order>
+        <parent>86fbe1145327021005707ab0a0490e8f</parent>
+        <parent_table>sys_sg_master_item</parent_table>
         <sys_class_name>sys_sg_button_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-07-21 16:24:40</sys_created_on>
-        <sys_id>4e1fc79153ab861005707ab0a0490ecd</sys_id>
+        <sys_created_on>2024-07-22 09:49:03</sys_created_on>
+        <sys_id>702eb2a953efc61005707ab0a0490e0b</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Create New</sys_name>
+        <sys_name>New</sys_name>
         <sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package>
         <sys_policy/>
         <sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope>
-        <sys_update_name>sys_sg_button_instance_4e1fc79153ab861005707ab0a0490ecd</sys_update_name>
+        <sys_update_name>sys_sg_button_instance_702eb2a953efc61005707ab0a0490e0b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-07-21 16:24:40</sys_updated_on>
+        <sys_updated_on>2024-07-22 09:49:03</sys_updated_on>
         <table>x_1040499_nexgenhd_my_helpdesk</table>
     </sys_sg_button_instance>
-    <sys_translated_text action="delete_multiple" query="documentkey=4e1fc79153ab861005707ab0a0490ecd"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=702eb2a953efc61005707ab0a0490e0b"/>
 </record_update>

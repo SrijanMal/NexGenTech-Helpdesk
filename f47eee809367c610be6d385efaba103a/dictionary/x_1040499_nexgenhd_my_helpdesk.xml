@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="c2deae049367c610be6d385efaba10f5" extends="task" label="My Helpdesk " max_length="40" name="x_1040499_nexgenhd_my_helpdesk" type="collection"/>
+    <element db_object_id="c2deae049367c610be6d385efaba10f5" extends="task" label="My Helpdesk " max_length="40" name="x_1040499_nexgenhd_my_helpdesk" type="collection">
+        <element label="Device Request" max_length="32" name="device_request" reference="x_1040499_nexgente_device_request" type="reference"/>
+    </element>
 </database>

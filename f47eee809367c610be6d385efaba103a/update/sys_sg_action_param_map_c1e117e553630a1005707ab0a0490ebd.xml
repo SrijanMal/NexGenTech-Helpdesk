@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Record">6d9cbae553efc61005707ab0a0490e69</button>
+        <item_parameter display_value="Device Request">33f05b6553630a1005707ab0a0490ee2</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-22 11:15:34</sys_created_on>
+        <sys_id>c1e117e553630a1005707ab0a0490ebd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>33f05b6553630a1005707ab0a0490ee2</sys_name>
+        <sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_c1e117e553630a1005707ab0a0490ebd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-22 11:15:34</sys_updated_on>
+        <ui_parameter display_value="Device Request&#9;">748d726953efc61005707ab0a0490eb8</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

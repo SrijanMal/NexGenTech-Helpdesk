@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
     <sys_sg_screen_field action="INSERT_OR_UPDATE">
-        <data_item_field_name>location</data_item_field_name>
-        <field_name/>
+        <data_item_field_name>attachment_list</data_item_field_name>
+        <field_name>attachment_list</field_name>
         <hidden>false</hidden>
-        <order>500</order>
-        <record_id_field/>
+        <order>510</order>
+        <record_id_field>sys_id</record_id_field>
         <screen display_value="Details">c2fbe1145327021005707ab0a0490e86</screen>
         <screen_data_item_table>x_1040499_nexgenhd_my_helpdesk</screen_data_item_table>
         <sys_class_name>sys_sg_screen_field</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-07-18 07:05:22</sys_created_on>
-        <sys_id>0452719c5327021005707ab0a0490eed</sys_id>
+        <sys_created_on>2024-07-22 11:23:58</sys_created_on>
+        <sys_id>c3d3d36953630a1005707ab0a0490ed4</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>location</sys_name>
+        <sys_name>attachment_list</sys_name>
         <sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package>
         <sys_policy/>
         <sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope>
-        <sys_update_name>sys_sg_screen_field_0452719c5327021005707ab0a0490eed</sys_update_name>
+        <sys_update_name>sys_sg_screen_field_c3d3d36953630a1005707ab0a0490ed4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-07-18 07:05:22</sys_updated_on>
-        <type>auto</type>
+        <sys_updated_on>2024-07-22 11:23:58</sys_updated_on>
+        <type>attachments_list</type>
         <value_only>false</value_only>
     </sys_sg_screen_field>
 </record_update>

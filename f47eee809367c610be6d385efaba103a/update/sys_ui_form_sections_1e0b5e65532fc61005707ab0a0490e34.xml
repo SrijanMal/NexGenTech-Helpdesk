@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="1e0b5e65532fc61005707ab0a0490e34" sys_domain="global" table="x_1040499_nexgenhd_my_helpdesk" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-22 07:15:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ea0b5e65532fc61005707ab0a0490e38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1040499_nexgenhd_my_helpdesk" name="x_1040499_nexgenhd_my_helpdesk" sys_domain="global" view="Default view">1e0b5e65532fc61005707ab0a0490e34</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1040499_nexgenhd_my_helpdesk" sys_domain="global" view="Default view">d36be1d05327021005707ab0a0490e40</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-22 07:15:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-22 07:15:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6a0b5e65532fc61005707ab0a0490e39</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1040499_nexgenhd_my_helpdesk" name="x_1040499_nexgenhd_my_helpdesk" sys_domain="global" view="Default view">1e0b5e65532fc61005707ab0a0490e34</sys_ui_form>
+            <sys_ui_section caption="Device Request related Information" display_value="Device Request related Information" name="x_1040499_nexgenhd_my_helpdesk" sys_domain="global" view="Default view">d20b5e65532fc61005707ab0a0490e33</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-22 07:15:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1040499_nexgenhd_my_helpdesk</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-22 07:15:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1e0b5e65532fc61005707ab0a0490e34</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1040499_nexgenhd_my_helpdesk</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope>
+            <sys_update_name>sys_ui_form_sections_1e0b5e65532fc61005707ab0a0490e34</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-22 07:15:42</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
