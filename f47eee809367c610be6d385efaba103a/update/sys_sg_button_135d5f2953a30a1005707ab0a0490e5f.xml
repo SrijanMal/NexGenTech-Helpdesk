@@ -10,16 +10,16 @@
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <condition_script/>
-        <condition_type>script</condition_type>
+        <condition_type>declarative</condition_type>
         <confirm_label>Yes</confirm_label>
         <confirmation_message>Are you sure?</confirmation_message>
-        <context>global</context>
-        <description>Creating a ticket</description>
+        <context>record</context>
+        <description>Edit my Ticket</description>
         <destination_alp/>
         <destination_screen/>
         <destination_type>screen</destination_type>
         <external_browser>false</external_browser>
-        <failure_message>Ohh!, Something went wrong.</failure_message>
+        <failure_message>Ohh! Something went wrong</failure_message>
         <field_name/>
         <hide_buttons/>
         <hide_fields/>
@@ -31,7 +31,7 @@
         <mail_address/>
         <mail_content/>
         <mail_subject/>
-        <name>New Ticket</name>
+        <name>Edit Ticket</name>
         <offline>false</offline>
         <offline_condition/>
         <offline_condition_script/>
@@ -55,26 +55,26 @@
         <show_refresh_on_previous>false</show_refresh_on_previous>
         <show_signature>false</show_signature>
         <sms/>
-        <success_message>Your ticket has been sucessfully created</success_message>
+        <success_message>Yes, Your ticket has been sucessfully edited.</success_message>
         <sys_class_name>sys_sg_button</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-07-22 09:44:37</sys_created_on>
-        <sys_id>6d9cbae553efc61005707ab0a0490e69</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>New Ticket</sys_name>
+        <sys_created_on>2024-07-22 12:07:31</sys_created_on>
+        <sys_id>135d5f2953a30a1005707ab0a0490e5f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit Ticket</sys_name>
         <sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package>
         <sys_policy/>
         <sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope>
-        <sys_update_name>sys_sg_button_6d9cbae553efc61005707ab0a0490e69</sys_update_name>
+        <sys_update_name>sys_sg_button_135d5f2953a30a1005707ab0a0490e5f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-07-22 12:03:09</sys_updated_on>
+        <sys_updated_on>2024-07-22 12:07:31</sys_updated_on>
         <table>x_1040499_nexgenhd_my_helpdesk</table>
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>
         <unhighlighted_icons/>
         <use_overlay>false</use_overlay>
-        <write_back_action_item display_value="Create New">eba7566d53ebc61005707ab0a0490e91</write_back_action_item>
+        <write_back_action_item display_value="Edit Ticket">9b8c17e553a30a1005707ab0a0490e8e</write_back_action_item>
         <zombified_screens/>
     </sys_sg_button>
-    <sys_translated_text action="delete_multiple" query="documentkey=6d9cbae553efc61005707ab0a0490e69"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=135d5f2953a30a1005707ab0a0490e5f"/>
 </record_update>

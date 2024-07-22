@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="DELETE">
+        <name>state_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-18 06:48:57</sys_created_on>
+        <sys_id>e38e65d45327021005707ab0a0490ea9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>state_element</sys_name>
+        <sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_e38e65d45327021005707ab0a0490ea9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-18 06:48:57</sys_updated_on>
+        <view_config display_value="Get My Tickets Card">86fb21145327021005707ab0a0490e9d</view_config>
+        <view_template_slot display_value="state">18a7775b776301103ec08f1a5b5a9923</view_template_slot>
+    </sys_sg_view_config_element>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</application>
+        <file_path/>
+        <instance_id>4ffbec40db4ab514199b1729139619aa</instance_id>
+        <instance_name>dev188595</instance_name>
+        <name>sys_sg_view_config_element_e38e65d45327021005707ab0a0490ea9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element"><sys_sg_view_config_element action="INSERT_OR_UPDATE"><name>state_element</name><sys_class_name>sys_sg_view_config_element</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-18 06:48:57</sys_created_on><sys_id>e38e65d45327021005707ab0a0490ea9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>state_element</sys_name><sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package><sys_policy/><sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope><sys_update_name>sys_sg_view_config_element_e38e65d45327021005707ab0a0490ea9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-18 06:48:57</sys_updated_on><view_config display_value="Get My Tickets Card">86fb21145327021005707ab0a0490e9d</view_config><view_template_slot display_value="state">18a7775b776301103ec08f1a5b5a9923</view_template_slot></sys_sg_view_config_element></record_update>]]></payload>
+        <payload_hash>2041972555</payload_hash>
+        <record_name>state_element</record_name>
+        <reverted_from/>
+        <source>bc7eee809367c610be6d385efaba103c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-18 06:48:57</sys_created_on>
+        <sys_id>278e65d45327021005707ab0a0490eac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190c499e14f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-18 06:48:57</sys_updated_on>
+        <type>Card element</type>
+        <update_guid>2b8e65d442270210e850a53adfa484ab</update_guid>
+        <update_guid_history>2b8e65d442270210e850a53adfa484ab:2041972555</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-22 11:33:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_view_config_element">sys_sg_view_config_element</sys_db_object>
+        <sys_id>238452f4cf39463687f2a2e24014d7e4</sys_id>
+        <sys_metadata>e38e65d45327021005707ab0a0490ea9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>state_element</sys_name>
+        <sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope>
+        <sys_scope_delete display_value="">1ba45732bc0f4863bfe551469ae2bf39</sys_scope_delete>
+        <sys_update_name>sys_sg_view_config_element_e38e65d45327021005707ab0a0490ea9</sys_update_name>
+        <sys_update_version display_value="sys_sg_view_config_element_e38e65d45327021005707ab0a0490ea9">278e65d45327021005707ab0a0490eac</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-22 11:33:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
