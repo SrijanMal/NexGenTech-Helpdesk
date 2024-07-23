@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Launcher Button">4053ef7153ab4a1005707ab0a0490e0d</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon display_value="User Icon">f343ef7153ab4a1005707ab0a0490e0a</icon>
+        <label>NexGenTech Helpdesk Launcher Button Instance</label>
+        <location>top</location>
+        <name>NexGenTech Helpdesk Launcher Button Instance</name>
+        <order/>
+        <parent>53ae66809367c610be6d385efaba10dc</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-23 07:09:57</sys_created_on>
+        <sys_id>c05363b153ab4a1005707ab0a0490efa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NexGenTech Helpdesk Launcher Button Instance</sys_name>
+        <sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope>
+        <sys_update_name>sys_sg_button_instance_c05363b153ab4a1005707ab0a0490efa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-23 07:09:57</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=c05363b153ab4a1005707ab0a0490efa"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</application>
+        <file_path/>
+        <instance_id>4ffbec40db4ab514199b1729139619aa</instance_id>
+        <instance_name>dev188595</instance_name>
+        <name>sys_sg_button_instance_c05363b153ab4a1005707ab0a0490efa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Launcher Button">4053ef7153ab4a1005707ab0a0490e0d</button><color_theme/><description/><disable_offline>false</disable_offline><field_name/><icon display_value="User Icon">f343ef7153ab4a1005707ab0a0490e0a</icon><label>NexGenTech Helpdesk Launcher Button Instance</label><location>top</location><name>NexGenTech Helpdesk Launcher Button Instance</name><order/><parent>53ae66809367c610be6d385efaba10dc</parent><parent_table>sys_sg_applet_launcher</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-23 07:09:57</sys_created_on><sys_id>c05363b153ab4a1005707ab0a0490efa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NexGenTech Helpdesk Launcher Button Instance</sys_name><sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package><sys_policy/><sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope><sys_update_name>sys_sg_button_instance_c05363b153ab4a1005707ab0a0490efa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-23 07:09:57</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=c05363b153ab4a1005707ab0a0490efa"/></record_update>]]></payload>
+        <payload_hash>972331705</payload_hash>
+        <record_name>NexGenTech Helpdesk Launcher Button Instance</record_name>
+        <reverted_from/>
+        <source>7f574b55536b861005707ab0a0490e8f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-23 07:09:57</sys_created_on>
+        <sys_id>885363b153ab4a1005707ab0a0490efc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190de6ce8330000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-23 07:09:57</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>8c5363b175ab4a10962e5fc5349c31fb</update_guid>
+        <update_guid_history>8c5363b175ab4a10962e5fc5349c31fb:972331705</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-23 07:23:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>10e1ca8215514e8aa721873fc1c4cae4</sys_id>
+        <sys_metadata>c05363b153ab4a1005707ab0a0490efa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NexGenTech Helpdesk Launcher Button Instance</sys_name>
+        <sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope>
+        <sys_scope_delete display_value="">1ba45732bc0f4863bfe551469ae2bf39</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_c05363b153ab4a1005707ab0a0490efa</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_c05363b153ab4a1005707ab0a0490efa">885363b153ab4a1005707ab0a0490efc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-23 07:23:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
