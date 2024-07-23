@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_universal_link_applet_mapping">
+    <sys_sg_universal_link_applet_mapping action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <form_applet display_value="Get My Tickets Record Screen">4efbe1145327021005707ab0a0490e82</form_applet>
+        <list_applet display_value="Get My Tickets">82fb21145327021005707ab0a0490e97</list_applet>
+        <mobile_application display_value="Request">1386893a5b0320103ab5216fa881c7c0</mobile_application>
+        <source_table_name>x_1040499_nexgenhd_my_helpdesk</source_table_name>
+        <sys_class_name>sys_sg_universal_link_applet_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-22 17:23:52</sys_created_on>
+        <sys_id>7316a4b5536b0a1005707ab0a0490e92</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope>
+        <sys_update_name>sys_sg_universal_link_applet_mapping_7316a4b5536b0a1005707ab0a0490e92</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-22 17:23:52</sys_updated_on>
+    </sys_sg_universal_link_applet_mapping>
+</record_update>
