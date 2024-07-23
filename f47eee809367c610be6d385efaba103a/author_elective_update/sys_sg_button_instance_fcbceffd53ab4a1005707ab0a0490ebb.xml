@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Launcher Button">44f2ebfd536b4a1005707ab0a0490e3a</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Create Incident</label>
+        <location>quick_action</location>
+        <name>Create Incident</name>
+        <order/>
+        <parent>53ae66809367c610be6d385efaba10dc</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-23 07:50:58</sys_created_on>
+        <sys_id>fcbceffd53ab4a1005707ab0a0490ebb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create Incident</sys_name>
+        <sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope>
+        <sys_update_name>sys_sg_button_instance_fcbceffd53ab4a1005707ab0a0490ebb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-23 07:50:58</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=fcbceffd53ab4a1005707ab0a0490ebb"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</application>
+        <file_path/>
+        <instance_id>4ffbec40db4ab514199b1729139619aa</instance_id>
+        <instance_name>dev188595</instance_name>
+        <name>sys_sg_button_instance_fcbceffd53ab4a1005707ab0a0490ebb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Launcher Button">44f2ebfd536b4a1005707ab0a0490e3a</button><color_theme/><description/><disable_offline>false</disable_offline><field_name/><icon/><label>Create Incident</label><location>quick_action</location><name>Create Incident</name><order/><parent>53ae66809367c610be6d385efaba10dc</parent><parent_table>sys_sg_applet_launcher</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-23 07:50:58</sys_created_on><sys_id>fcbceffd53ab4a1005707ab0a0490ebb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create Incident</sys_name><sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package><sys_policy/><sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope><sys_update_name>sys_sg_button_instance_fcbceffd53ab4a1005707ab0a0490ebb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-23 07:50:58</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=fcbceffd53ab4a1005707ab0a0490ebb"/></record_update>]]></payload>
+        <payload_hash>-1468658909</payload_hash>
+        <record_name>Create Incident</record_name>
+        <reverted_from/>
+        <source>3811384c936b8610be6d385efaba10d5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-23 07:51:16</sys_created_on>
+        <sys_id>0dcc637153eb4a1005707ab0a0490e76</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190de92ba030000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-23 07:51:16</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>09cc63714beb4a100119adcf551e0576</update_guid>
+        <update_guid_history>09cc63714beb4a100119adcf551e0576:0,bcbceffdb8ab4a10db5563a3e36bafbd:581908853</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-23 07:51:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>25b19c46ae4b48008f765754fe049900</sys_id>
+        <sys_metadata>fcbceffd53ab4a1005707ab0a0490ebb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create Incident</sys_name>
+        <sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope>
+        <sys_scope_delete display_value="">1ba45732bc0f4863bfe551469ae2bf39</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_fcbceffd53ab4a1005707ab0a0490ebb</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_fcbceffd53ab4a1005707ab0a0490ebb">0dcc637153eb4a1005707ab0a0490e76</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-23 07:51:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
