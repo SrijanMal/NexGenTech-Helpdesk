@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
     <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
         <applet_launcher display_value="NexGenTech">53ae66809367c610be6d385efaba10dc</applet_launcher>
-        <order>30</order>
-        <section display_value="Incident">7fae6a049367c610be6d385efaba1005</section>
+        <order>10</order>
+        <section display_value="Device Request">355558565367ca1005707ab0a0490ebb</section>
         <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-07-17 16:50:38</sys_created_on>
-        <sys_id>7fae6a049367c610be6d385efaba1006</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_created_on>2024-07-24 05:33:42</sys_created_on>
+        <sys_id>41b6dc1a5367ca1005707ab0a0490e95</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package>
         <sys_policy/>
         <sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope>
-        <sys_update_name>sys_sg_applet_launcher_m2m_section_7fae6a049367c610be6d385efaba1006</sys_update_name>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_41b6dc1a5367ca1005707ab0a0490e95</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-07-24 05:33:42</sys_updated_on>
+        <sys_updated_on>2024-07-24 05:35:53</sys_updated_on>
     </sys_sg_applet_launcher_m2m_section>
 </record_update>
