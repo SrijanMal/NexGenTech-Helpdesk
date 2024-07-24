@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>Create and impersonate user with the following values:
+First name = Demo
+and Last name = User
+With roles: x_1040499_nexgenhd.user, x_1040499_nexgenhd.my_helpdesk_user, x_1040499_nexgente.device management</description>
+        <display_name>Create a User</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>1</order>
+        <step_config display_value="Create a User">d9bc5f21ff6033008d3f5d9ad53bf12d</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 04:14:15</sys_created_on>
+        <sys_id>b19408965363ca1005707ab0a0490e57</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Create a User</sys_name>
+        <sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope>
+        <sys_update_name>sys_atf_step_b19408965363ca1005707ab0a0490e57</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 04:47:11</sys_updated_on>
+        <table>sys_user</table>
+        <test display_value="Mobile App Test">ee5beadc536b021005707ab0a0490e88</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=b19408965363ca1005707ab0a0490e57"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>b19408965363ca1005707ab0a0490e57</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 04:14:15</sys_created_on>
+        <sys_id>33a4c41e53e3ca1005707ab0a0490e32</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 04:14:15</sys_updated_on>
+        <value/>
+        <variable display_value="Groups">b27b2b29ff6033008d3f5d9ad53bf164</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>b19408965363ca1005707ab0a0490e57</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 04:14:15</sys_created_on>
+        <sys_id>37a4c41e53e3ca1005707ab0a0490e31</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 04:14:15</sys_updated_on>
+        <value>1</value>
+        <variable display_value="Impersonate this user">98c44875ffa033008d3f5d9ad53bf1fa</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>b19408965363ca1005707ab0a0490e57</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 04:14:15</sys_created_on>
+        <sys_id>3fa4c41e53e3ca1005707ab0a0490e32</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 04:14:15</sys_updated_on>
+        <value/>
+        <variable display_value="User field values">1778a7480f20101091d0f00c97767e03</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>b19408965363ca1005707ab0a0490e57</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 04:14:15</sys_created_on>
+        <sys_id>7ba4c41e53e3ca1005707ab0a0490e32</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 04:14:15</sys_updated_on>
+        <value>sys_user</value>
+        <variable display_value="Table">ff06ab840f20101091d0f00c97767e6d</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>b19408965363ca1005707ab0a0490e57</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 04:14:15</sys_created_on>
+        <sys_id>7fa4c41e53e3ca1005707ab0a0490e31</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 04:47:11</sys_updated_on>
+        <value>cb4f6a449367c610be6d385efaba105f,e442379547e40210853097bf016d43ef,1f8eaac09367c610be6d385efaba10ed</value>
+        <variable display_value="Roles">8c07aba5ff6033008d3f5d9ad53bf13b</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>b19408965363ca1005707ab0a0490e57</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 04:14:15</sys_created_on>
+        <sys_id>b7a4c41e53e3ca1005707ab0a0490e32</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 04:14:15</sys_updated_on>
+        <value>Demo</value>
+        <variable display_value="First name">1985e0ceff2433008d3f5d9ad53bf1ba</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>b19408965363ca1005707ab0a0490e57</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 04:14:15</sys_created_on>
+        <sys_id>f3a4c41e53e3ca1005707ab0a0490e32</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 04:14:15</sys_updated_on>
+        <value>User</value>
+        <variable display_value="Last name">6f69fc4aff6433008d3f5d9ad53bf18c</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="table=var__m_atf_input_variable_d9bc5f21ff6033008d3f5d9ad53bf12d^id=b19408965363ca1005707ab0a0490e57"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</application>
+        <file_path/>
+        <instance_id>4ffbec40db4ab514199b1729139619aa</instance_id>
+        <instance_name>dev188595</instance_name>
+        <name>sys_atf_step_b19408965363ca1005707ab0a0490e57</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Create and impersonate user with the following values:
+First name = Demo
+and Last name = User
+With roles: x_1040499_nexgenhd.user, x_1040499_nexgenhd.my_helpdesk_user, x_1040499_nexgente.device management</description><display_name>Create a User</display_name><inputs/><mugshots_cache_json/><notes/><order>1</order><step_config display_value="Create a User">d9bc5f21ff6033008d3f5d9ad53bf12d</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-24 04:14:15</sys_created_on><sys_id>b19408965363ca1005707ab0a0490e57</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Create a User</sys_name><sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package><sys_policy/><sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope><sys_update_name>sys_atf_step_b19408965363ca1005707ab0a0490e57</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-24 04:47:11</sys_updated_on><table>sys_user</table><test display_value="Mobile App Test">ee5beadc536b021005707ab0a0490e88</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=b19408965363ca1005707ab0a0490e57"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>b19408965363ca1005707ab0a0490e57</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-24 04:14:15</sys_created_on><sys_id>33a4c41e53e3ca1005707ab0a0490e32</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-24 04:14:15</sys_updated_on><value/><variable display_value="Groups">b27b2b29ff6033008d3f5d9ad53bf164</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>b19408965363ca1005707ab0a0490e57</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-24 04:14:15</sys_created_on><sys_id>37a4c41e53e3ca1005707ab0a0490e31</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-24 04:14:15</sys_updated_on><value>1</value><variable display_value="Impersonate this user">98c44875ffa033008d3f5d9ad53bf1fa</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>b19408965363ca1005707ab0a0490e57</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-24 04:14:15</sys_created_on><sys_id>3fa4c41e53e3ca1005707ab0a0490e32</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-24 04:14:15</sys_updated_on><value/><variable display_value="User field values">1778a7480f20101091d0f00c97767e03</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>b19408965363ca1005707ab0a0490e57</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-24 04:14:15</sys_created_on><sys_id>7ba4c41e53e3ca1005707ab0a0490e32</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-24 04:14:15</sys_updated_on><value>sys_user</value><variable display_value="Table">ff06ab840f20101091d0f00c97767e6d</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>b19408965363ca1005707ab0a0490e57</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-24 04:14:15</sys_created_on><sys_id>7fa4c41e53e3ca1005707ab0a0490e31</sys_id><sys_mod_count>3</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-24 04:47:11</sys_updated_on><value>cb4f6a449367c610be6d385efaba105f,e442379547e40210853097bf016d43ef,1f8eaac09367c610be6d385efaba10ed</value><variable display_value="Roles">8c07aba5ff6033008d3f5d9ad53bf13b</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>b19408965363ca1005707ab0a0490e57</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-24 04:14:15</sys_created_on><sys_id>b7a4c41e53e3ca1005707ab0a0490e32</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-24 04:14:15</sys_updated_on><value>Demo</value><variable display_value="First name">1985e0ceff2433008d3f5d9ad53bf1ba</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>b19408965363ca1005707ab0a0490e57</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-24 04:14:15</sys_created_on><sys_id>f3a4c41e53e3ca1005707ab0a0490e32</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-24 04:14:15</sys_updated_on><value>User</value><variable display_value="Last name">6f69fc4aff6433008d3f5d9ad53bf18c</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_d9bc5f21ff6033008d3f5d9ad53bf12d^id=b19408965363ca1005707ab0a0490e57"/></record_update>]]></payload>
+        <payload_hash>37830666</payload_hash>
+        <record_name>Create a User</record_name>
+        <reverted_from/>
+        <source>7f574b55536b861005707ab0a0490e8f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 04:47:11</sys_created_on>
+        <sys_id>de3c441a5327ca1005707ab0a0490e89</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190e3108e6a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 04:47:11</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>563c441ac727ca10e7713275fa959589</update_guid>
+        <update_guid_history>563c441ac727ca10e7713275fa959589:37830666,fdba8c569f27ca104d80b444d11cf2e6:-2118528169,f18a4856c227ca104eb43d15d5a7813a:-533454122,bfa4c41e72e3ca1094720c748a855134:1283332674</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 04:48:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>618206c3ca0c48d6a1b2647cc38abc04</sys_id>
+        <sys_metadata>b19408965363ca1005707ab0a0490e57</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create a User</sys_name>
+        <sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope>
+        <sys_scope_delete display_value="">1ba45732bc0f4863bfe551469ae2bf39</sys_scope_delete>
+        <sys_update_name>sys_atf_step_b19408965363ca1005707ab0a0490e57</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_b19408965363ca1005707ab0a0490e57">de3c441a5327ca1005707ab0a0490e89</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 04:48:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
