@@ -13,7 +13,7 @@
         <mandatory>false</mandatory>
         <max_entries/>
         <multi_entry>false</multi_entry>
-        <multi_select>true</multi_select>
+        <multi_select>false</multi_select>
         <name>sub catagory</name>
         <order>600</order>
         <parameter_type>button</parameter_type>
@@ -25,14 +25,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-07-25 10:54:01</sys_created_on>
         <sys_id>5fa9e62653ab4e1005707ab0a0490e02</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>sub catagory</sys_name>
         <sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package>
         <sys_policy/>
         <sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope>
         <sys_update_name>sys_sg_ui_parameter_5fa9e62653ab4e1005707ab0a0490e02</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-07-25 11:11:27</sys_updated_on>
+        <sys_updated_on>2024-07-25 11:20:16</sys_updated_on>
         <table_name>x_1040499_nexgenhd_my_helpdesk</table_name>
         <virtual_field_value>false</virtual_field_value>
     </sys_sg_ui_parameter>
