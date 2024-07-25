@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="DELETE">
+        <button display_value="New Ticket">6d9cbae553efc61005707ab0a0490e69</button>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name>priority</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>list</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Priorty</name>
+        <order>400</order>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-22 09:48:11</sys_created_on>
+        <sys_id>f0ddba2953efc61005707ab0a0490e5b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Priorty</sys_name>
+        <sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_f0ddba2953efc61005707ab0a0490e5b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-22 12:24:52</sys_updated_on>
+        <table_name>x_1040499_nexgenhd_my_helpdesk</table_name>
+        <virtual_field_value>false</virtual_field_value>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="DELETE" query="documentkey=f0ddba2953efc61005707ab0a0490e5b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</application>
+        <file_path/>
+        <instance_id>4ffbec40db4ab514199b1729139619aa</instance_id>
+        <instance_name>dev188595</instance_name>
+        <name>sys_sg_ui_parameter_f0ddba2953efc61005707ab0a0490e5b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter"><sys_sg_ui_parameter action="INSERT_OR_UPDATE"><button display_value="New Ticket">6d9cbae553efc61005707ab0a0490e69</button><button_parent_table/><carried>false</carried><constant/><default_value/><default_value_type>none</default_value_type><field_name>priority</field_name><input_source>user</input_source><input_style>inline</input_style><input_type>list</input_type><mandatory>false</mandatory><max_entries/><multi_entry>false</multi_entry><multi_select>false</multi_select><name>Priorty</name><order>400</order><parameter_type>button</parameter_type><placeholder/><screen/><search_type>starts_with</search_type><source_field/><sys_class_name>sys_sg_ui_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-22 09:48:11</sys_created_on><sys_id>f0ddba2953efc61005707ab0a0490e5b</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Priorty</sys_name><sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package><sys_policy/><sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope><sys_update_name>sys_sg_ui_parameter_f0ddba2953efc61005707ab0a0490e5b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-22 12:24:52</sys_updated_on><table_name>x_1040499_nexgenhd_my_helpdesk</table_name><virtual_field_value>false</virtual_field_value></sys_sg_ui_parameter><sys_translated_text action="delete_multiple" query="documentkey=f0ddba2953efc61005707ab0a0490e5b"/></record_update>]]></payload>
+        <payload_hash>-1620148116</payload_hash>
+        <record_name>Priorty</record_name>
+        <reverted_from/>
+        <source>7f574b55536b861005707ab0a0490e8f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-22 12:24:52</sys_created_on>
+        <sys_id>4fc1672153e30a1005707ab0a0490e56</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190da66daef0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-22 12:24:52</sys_updated_on>
+        <type>UI parameter</type>
+        <update_guid>07c1672156e30a10dcc7e736420fbe56</update_guid>
+        <update_guid_history>07c1672156e30a10dcc7e736420fbe56:-1620148116,0cfd726902efc610c30ed4fb0005e625:444688797</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 10:48:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_parameter">sys_sg_ui_parameter</sys_db_object>
+        <sys_id>0ce876b95d4f42e8824b2eec4005d319</sys_id>
+        <sys_metadata>f0ddba2953efc61005707ab0a0490e5b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Priorty</sys_name>
+        <sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope>
+        <sys_scope_delete display_value="">1ba45732bc0f4863bfe551469ae2bf39</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_parameter_f0ddba2953efc61005707ab0a0490e5b</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_parameter_f0ddba2953efc61005707ab0a0490e5b">4fc1672153e30a1005707ab0a0490e56</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 10:48:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

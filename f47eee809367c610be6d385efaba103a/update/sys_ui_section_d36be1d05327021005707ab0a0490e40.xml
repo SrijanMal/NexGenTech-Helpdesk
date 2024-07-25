@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-22 07:15:43</sys_created_on>
-            <sys_id>620b5e65532fc61005707ab0a0490e8f</sys_id>
+            <sys_created_on>2024-07-25 10:39:29</sys_created_on>
+            <sys_id>a076262253ab4e1005707ab0a0490edd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1040499_nexgenhd_my_helpdesk" sys_domain="global" view="Default view">d36be1d05327021005707ab0a0490e40</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-22 07:15:43</sys_updated_on>
+            <sys_updated_on>2024-07-25 10:39:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>assigned_to</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-22 07:15:43</sys_created_on>
-            <sys_id>6a0b5e65532fc61005707ab0a0490e8f</sys_id>
+            <sys_created_on>2024-07-25 10:39:29</sys_created_on>
+            <sys_id>ec76262253ab4e1005707ab0a0490edd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1040499_nexgenhd_my_helpdesk" sys_domain="global" view="Default view">d36be1d05327021005707ab0a0490e40</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-22 07:15:43</sys_updated_on>
+            <sys_updated_on>2024-07-25 10:39:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>device_request</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-22 07:15:43</sys_created_on>
-            <sys_id>620b5e65532fc61005707ab0a0490e90</sys_id>
+            <sys_created_on>2024-07-25 10:39:29</sys_created_on>
+            <sys_id>e476262253ab4e1005707ab0a0490ede</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1040499_nexgenhd_my_helpdesk" sys_domain="global" view="Default view">d36be1d05327021005707ab0a0490e40</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-22 07:15:43</sys_updated_on>
+            <sys_updated_on>2024-07-25 10:39:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>active</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-22 07:15:43</sys_created_on>
-            <sys_id>6a0b5e65532fc61005707ab0a0490e90</sys_id>
+            <sys_created_on>2024-07-25 10:39:29</sys_created_on>
+            <sys_id>ec76262253ab4e1005707ab0a0490ede</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1040499_nexgenhd_my_helpdesk" sys_domain="global" view="Default view">d36be1d05327021005707ab0a0490e40</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-22 07:15:43</sys_updated_on>
+            <sys_updated_on>2024-07-25 10:39:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-22 07:15:43</sys_created_on>
-            <sys_id>620b5e65532fc61005707ab0a0490e91</sys_id>
+            <sys_created_on>2024-07-25 10:39:29</sys_created_on>
+            <sys_id>e476262253ab4e1005707ab0a0490edf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1040499_nexgenhd_my_helpdesk" sys_domain="global" view="Default view">d36be1d05327021005707ab0a0490e40</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-22 07:15:43</sys_updated_on>
+            <sys_updated_on>2024-07-25 10:39:29</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>priority</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-22 07:15:43</sys_created_on>
-            <sys_id>6a0b5e65532fc61005707ab0a0490e91</sys_id>
+            <sys_created_on>2024-07-25 10:39:29</sys_created_on>
+            <sys_id>ec76262253ab4e1005707ab0a0490edf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1040499_nexgenhd_my_helpdesk" sys_domain="global" view="Default view">d36be1d05327021005707ab0a0490e40</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-22 07:15:43</sys_updated_on>
+            <sys_updated_on>2024-07-25 10:39:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,41 @@
             <element>state</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-22 07:15:43</sys_created_on>
-            <sys_id>620b5e65532fc61005707ab0a0490e92</sys_id>
+            <sys_created_on>2024-07-25 10:39:29</sys_created_on>
+            <sys_id>e476262253ab4e1005707ab0a0490ee0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1040499_nexgenhd_my_helpdesk" sys_domain="global" view="Default view">d36be1d05327021005707ab0a0490e40</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-22 07:15:43</sys_updated_on>
+            <sys_updated_on>2024-07-25 10:39:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_problem_catagory</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-25 10:39:29</sys_created_on>
+            <sys_id>ec76262253ab4e1005707ab0a0490ee0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1040499_nexgenhd_my_helpdesk" sys_domain="global" view="Default view">d36be1d05327021005707ab0a0490e40</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-25 10:39:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_sub_catagory</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-25 10:39:29</sys_created_on>
+            <sys_id>e476262253ab4e1005707ab0a0490ee1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1040499_nexgenhd_my_helpdesk" sys_domain="global" view="Default view">d36be1d05327021005707ab0a0490e40</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-25 10:39:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

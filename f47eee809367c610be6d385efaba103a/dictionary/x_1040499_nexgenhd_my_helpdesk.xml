@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="c2deae049367c610be6d385efaba10f5" extends="task" label="My Helpdesk " max_length="40" name="x_1040499_nexgenhd_my_helpdesk" type="collection">
         <element label="Device Request" max_length="32" name="device_request" reference="x_1040499_nexgente_device_request" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Problem Category" mandatory="true" max_length="40" name="u_problem_catagory" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Voice Recognition Issues" sequence="0" value="voice recognition issues"/>
+                <element inactive_on_update="false" label="Incorrect Responses" sequence="1" value="incorrect responses"/>
+                <element inactive_on_update="false" label="Integration Problems" sequence="2" value="integration problems"/>
+                <element inactive_on_update="false" label="Performance Degradation" sequence="3" value="performance degradation"/>
+                <element inactive_on_update="false" label="Limited Functionality" sequence="4" value="limited functionality"/>
+                <element inactive_on_update="false" label="User Interface Issues" sequence="5" value="user interface issues"/>
+                <element inactive_on_update="false" label="Security Concerns" sequence="6" value="security concerns"/>
+                <element inactive_on_update="false" label="Accessibility Challenges" sequence="7" value="accessibility challenges"/>
+                <element inactive_on_update="false" label="Hardware Problems" sequence="8" value="hardware problems"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="u_problem_catagory" dependent_on_field="u_problem_catagory" label="Sub Catagory" max_length="40" name="u_sub_catagory" type="string" use_dependent_field="true">
+            <choice>
+                <element dependent_value="voice recognition issues" inactive_on_update="false" label="Misinterpretation of Commands" sequence="0" value="Misinterpretation of Commands"/>
+                <element dependent_value="voice recognition issues" inactive_on_update="false" label="Inability to Understand Accents" sequence="1" value="Inability to Understand Accents"/>
+                <element dependent_value="voice recognition issues" inactive_on_update="false" label="Failure to Recognize Specific Words" sequence="2" value="Failure to Recognize Specific Words"/>
+                <element dependent_value="incorrect responses" inactive_on_update="false" label="Providing Outdated Information" sequence="3" value="Providing Outdated Information"/>
+                <element dependent_value="incorrect responses" inactive_on_update="false" label="Offering Irrelevant Solutions" sequence="4" value="Offering Irrelevant Solutions"/>
+                <element dependent_value="incorrect responses" inactive_on_update="false" label="Answering with Inaccurate Data" sequence="5" value="Answering with Inaccurate Data"/>
+                <element dependent_value="integration problems" inactive_on_update="false" label="Incompatibility with CRM Systems" sequence="6" value="Incompatibility with CRM Systems"/>
+                <element dependent_value="integration problems" inactive_on_update="false" label="Issues with API Connections" sequence="7" value="Issues with API Connections"/>
+                <element dependent_value="integration problems" inactive_on_update="false" label="Failure to Integrate with Helpdesk Software" sequence="8" value="Failure to Integrate with Helpdesk Software"/>
+                <element dependent_value="performance degradation" inactive_on_update="false" label="Slow Response Times" sequence="9" value="Slow Response Times"/>
+                <element dependent_value="performance degradation" inactive_on_update="false" label="Delays in Providing Information" sequence="10" value="Delays in Providing Information"/>
+                <element dependent_value="performance degradation" inactive_on_update="false" label="High Latency during Conversations" sequence="11" value="High Latency during Conversations"/>
+                <element dependent_value="limited functionality" inactive_on_update="false" label="Missing Essential Features" sequence="12" value="Missing Essential Features"/>
+                <element dependent_value="limited functionality" inactive_on_update="false" label="Inability to Handle Complex Queries" sequence="13" value="Inability to Handle Complex Queries"/>
+                <element dependent_value="limited functionality" inactive_on_update="false" label="Lack of Customization Options" sequence="14" value="Lack of Customization Options"/>
+                <element dependent_value="user interface issues" inactive_on_update="false" label="Confusing Navigation Design" sequence="15" value="Confusing Navigation Design"/>
+                <element dependent_value="user interface issues" inactive_on_update="false" label="Poor Usability Feedback" sequence="16" value="Poor Usability Feedback"/>
+                <element dependent_value="user interface issues" inactive_on_update="false" label="Difficulty in Accessing Help Features" sequence="17" value="Difficulty in Accessing Help Features"/>
+                <element dependent_value="security concerns" inactive_on_update="false" label="Data Privacy Issues" sequence="18" value="Data Privacy Issues"/>
+                <element dependent_value="security concerns" inactive_on_update="false" label="Vulnerabilities to Cyber Threats" sequence="19" value="Vulnerabilities to Cyber Threats"/>
+                <element dependent_value="security concerns" inactive_on_update="false" label="Lack of Secure Authentication Methods" sequence="20" value="Lack of Secure Authentication Methods"/>
+                <element dependent_value="accessibility challenges" inactive_on_update="false" label="Issues for Users with Visual Impairments" sequence="21" value="Issues for Users with Visual Impairments"/>
+                <element dependent_value="accessibility challenges" inactive_on_update="false" label="Problems for Users with Hearing Impairments" sequence="22" value="Problems for Users with Hearing Impairments"/>
+                <element dependent_value="accessibility challenges" inactive_on_update="false" label="Difficulty for Users with Motor Disabilities" sequence="23" value="Difficulty for Users with Motor Disabilities"/>
+                <element dependent_value="hardware problems" inactive_on_update="false" label="Physical Malfunctions" sequence="24" value="Physical Malfunctions"/>
+                <element dependent_value="hardware problems" inactive_on_update="false" label="Connectivity Issues (Wi-Fi, Bluetooth)" sequence="25" value="Connectivity Issues (Wi-Fi, Bluetooth)"/>
+                <element dependent_value="hardware problems" inactive_on_update="false" label="Power Supply Failures" sequence="26" value="Power Supply Failures"/>
+            </choice>
+        </element>
     </element>
 </database>

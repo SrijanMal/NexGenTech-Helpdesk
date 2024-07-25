@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="DELETE">
+        <default_value/>
+        <name>State</name>
+        <parent>9b8c17e553a30a1005707ab0a0490e8e</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-22 12:04:45</sys_created_on>
+        <sys_id>5a2d572953a30a1005707ab0a0490e6d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>State</sys_name>
+        <sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_5a2d572953a30a1005707ab0a0490e6d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-22 12:04:45</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</application>
+        <file_path/>
+        <instance_id>4ffbec40db4ab514199b1729139619aa</instance_id>
+        <instance_name>dev188595</instance_name>
+        <name>sys_sg_item_parameter_5a2d572953a30a1005707ab0a0490e6d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter"><sys_sg_item_parameter action="INSERT_OR_UPDATE"><default_value/><name>State</name><parent>9b8c17e553a30a1005707ab0a0490e8e</parent><parent_table>sys_sg_write_back_action_item</parent_table><sys_class_name>sys_sg_item_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-22 12:04:45</sys_created_on><sys_id>5a2d572953a30a1005707ab0a0490e6d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>State</sys_name><sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package><sys_policy/><sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope><sys_update_name>sys_sg_item_parameter_5a2d572953a30a1005707ab0a0490e6d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-22 12:04:45</sys_updated_on><type>string</type></sys_sg_item_parameter></record_update>]]></payload>
+        <payload_hash>1926418070</payload_hash>
+        <record_name>State</record_name>
+        <reverted_from/>
+        <source>7f574b55536b861005707ab0a0490e8f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-22 12:04:45</sys_created_on>
+        <sys_id>a83d572953a30a1005707ab0a0490e37</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190da5471b70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-22 12:04:45</sys_updated_on>
+        <type>Data parameter</type>
+        <update_guid>ac3d572976a30a10787771522dda2336</update_guid>
+        <update_guid_history>ac3d572976a30a10787771522dda2336:1926418070</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 10:50:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_parameter">sys_sg_item_parameter</sys_db_object>
+        <sys_id>cd65b4fd3d174fc89961b83365167d79</sys_id>
+        <sys_metadata>5a2d572953a30a1005707ab0a0490e6d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>State</sys_name>
+        <sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope>
+        <sys_scope_delete display_value="">1ba45732bc0f4863bfe551469ae2bf39</sys_scope_delete>
+        <sys_update_name>sys_sg_item_parameter_5a2d572953a30a1005707ab0a0490e6d</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_parameter_5a2d572953a30a1005707ab0a0490e6d">a83d572953a30a1005707ab0a0490e37</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 10:50:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

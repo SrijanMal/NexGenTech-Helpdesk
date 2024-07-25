@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_footer</name>
+        <page display_value="NextGenTech">b5d66ad653a30e1005707ab0a0490e73</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 16:02:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>97d6e6d653a30e1005707ab0a0490e77</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope>
+        <sys_update_name>sys_ux_page_property_97d6e6d653a30e1005707ab0a0490e77</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 16:02:49</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1040499_nexgenhd.b5d66ad653a30e1005707ab0a0490e73.root.chrome_footer</unique_name>
+        <value>{"public_page":{"enable_footer_topbar":false,"footer_topbar_options":{},"enable_footer_bar":false,"footer_bar_options":{}}}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=97d6e6d653a30e1005707ab0a0490e77"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</application>
+        <file_path/>
+        <instance_id>4ffbec40db4ab514199b1729139619aa</instance_id>
+        <instance_name>dev188595</instance_name>
+        <name>sys_ux_page_property_97d6e6d653a30e1005707ab0a0490e77</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_footer</name><page display_value="NextGenTech">b5d66ad653a30e1005707ab0a0490e73</page><required_translations>[ ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-24 16:02:49</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>97d6e6d653a30e1005707ab0a0490e77</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_footer</sys_name><sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package><sys_policy/><sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope><sys_update_name>sys_ux_page_property_97d6e6d653a30e1005707ab0a0490e77</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-24 16:02:49</sys_updated_on><type>json</type><unique_name>x_1040499_nexgenhd.b5d66ad653a30e1005707ab0a0490e73.root.chrome_footer</unique_name><value>{"public_page":{"enable_footer_topbar":false,"footer_topbar_options":{},"enable_footer_bar":false,"footer_bar_options":{}}}</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=97d6e6d653a30e1005707ab0a0490e77"/></record_update>]]></payload>
+        <payload_hash>-126676083</payload_hash>
+        <record_name>chrome_footer</record_name>
+        <reverted_from/>
+        <source>7f574b55536b861005707ab0a0490e8f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 16:02:49</sys_created_on>
+        <sys_id>17d6e6d653a30e1005707ab0a0490e79</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190e57b1cb90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 16:02:49</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>1bd6e6d648a30e100f17bf636c739278</update_guid>
+        <update_guid_history>1bd6e6d648a30e100f17bf636c739278:-126676083</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 16:15:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>a96050e2ac6f4900b38946150f024000</sys_id>
+        <sys_metadata>97d6e6d653a30e1005707ab0a0490e77</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope>
+        <sys_scope_delete display_value="">1ba45732bc0f4863bfe551469ae2bf39</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_97d6e6d653a30e1005707ab0a0490e77</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_97d6e6d653a30e1005707ab0a0490e77">17d6e6d653a30e1005707ab0a0490e79</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 16:15:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_problem_catagory" table="x_1040499_nexgenhd_my_helpdesk" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_problem_catagory</element>
+            <name>x_1040499_nexgenhd_my_helpdesk</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-25 10:39:28</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_problem_catagory</sys_name>
+            <sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope>
+            <sys_update_name>sys_choice_x_1040499_nexgenhd_my_helpdesk_u_problem_catagory</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-25 10:39:28</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_problem_catagory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Voice Recognition Issues</label>
+            <language>en</language>
+            <name>x_1040499_nexgenhd_my_helpdesk</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-25 10:39:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-25 10:39:28</sys_updated_on>
+            <value>voice recognition issues</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_problem_catagory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Incorrect Responses</label>
+            <language>en</language>
+            <name>x_1040499_nexgenhd_my_helpdesk</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-25 10:39:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-25 10:39:28</sys_updated_on>
+            <value>incorrect responses</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_problem_catagory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Integration Problems</label>
+            <language>en</language>
+            <name>x_1040499_nexgenhd_my_helpdesk</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-25 10:39:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-25 10:39:28</sys_updated_on>
+            <value>integration problems</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_problem_catagory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Performance Degradation</label>
+            <language>en</language>
+            <name>x_1040499_nexgenhd_my_helpdesk</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-25 10:39:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-25 10:39:28</sys_updated_on>
+            <value>performance degradation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_problem_catagory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Limited Functionality</label>
+            <language>en</language>
+            <name>x_1040499_nexgenhd_my_helpdesk</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-25 10:39:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-25 10:39:28</sys_updated_on>
+            <value>limited functionality</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_problem_catagory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>User Interface Issues</label>
+            <language>en</language>
+            <name>x_1040499_nexgenhd_my_helpdesk</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-25 10:39:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-25 10:39:28</sys_updated_on>
+            <value>user interface issues</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_problem_catagory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Security Concerns</label>
+            <language>en</language>
+            <name>x_1040499_nexgenhd_my_helpdesk</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-25 10:39:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-25 10:39:28</sys_updated_on>
+            <value>security concerns</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_problem_catagory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Accessibility Challenges</label>
+            <language>en</language>
+            <name>x_1040499_nexgenhd_my_helpdesk</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-25 10:39:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-25 10:39:28</sys_updated_on>
+            <value>accessibility challenges</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_problem_catagory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hardware Problems</label>
+            <language>en</language>
+            <name>x_1040499_nexgenhd_my_helpdesk</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-25 10:39:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-25 10:39:28</sys_updated_on>
+            <value>hardware problems</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
