@@ -29,8 +29,8 @@
         <mail_address/>
         <mail_content/>
         <mail_subject/>
-        <name>Navigations</name>
-        <offline>false</offline>
+        <name>Go to Service</name>
+        <offline>true</offline>
         <offline_condition/>
         <offline_condition_script/>
         <offline_condition_type>declarative</offline_condition_type>
@@ -58,14 +58,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-07-18 07:53:43</sys_created_on>
         <sys_id>150df59c5367021005707ab0a0490e43</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Navigations</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Go to Service</sys_name>
         <sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package>
         <sys_policy/>
         <sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope>
         <sys_update_name>sys_sg_button_150df59c5367021005707ab0a0490e43</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-07-18 07:53:43</sys_updated_on>
+        <sys_updated_on>2024-07-25 16:43:04</sys_updated_on>
         <table>x_1040499_nexgenhd_my_helpdesk</table>
         <take_value_from_field>false</take_value_from_field>
         <type>redirection</type>
