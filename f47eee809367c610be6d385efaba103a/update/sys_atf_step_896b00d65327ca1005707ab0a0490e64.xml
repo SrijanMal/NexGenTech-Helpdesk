@@ -4,11 +4,12 @@
         <copied_from/>
         <description>Set the following values on the form:
 Active = true
-and Device Request = DR0001002
+and Device Request = DR0001066
 and State = Open
 and Priority = 2 - High
 and Assigned to = Abel Tuter
-and Short description = Testing progress</description>
+and Short description = Testing progress
+and Problem Category = Incorrect Responses</description>
         <display_name>Set Field Values</display_name>
         <inputs/>
         <mugshots_cache_json/>
@@ -19,14 +20,14 @@ and Short description = Testing progress</description>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-07-24 04:44:47</sys_created_on>
         <sys_id>896b00d65327ca1005707ab0a0490e64</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Set Field Values</sys_name>
         <sys_package display_value="NexGenTech HelpDesk" source="x_1040499_nexgenhd">f47eee809367c610be6d385efaba103a</sys_package>
         <sys_policy/>
         <sys_scope display_value="NexGenTech HelpDesk">f47eee809367c610be6d385efaba103a</sys_scope>
         <sys_update_name>sys_atf_step_896b00d65327ca1005707ab0a0490e64</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-07-24 04:51:07</sys_updated_on>
+        <sys_updated_on>2024-07-26 06:19:57</sys_updated_on>
         <table>x_1040499_nexgenhd_my_helpdesk</table>
         <test display_value="Mobile App Test">ee5beadc536b021005707ab0a0490e88</test>
         <timeout/>
@@ -55,10 +56,10 @@ and Short description = Testing progress</description>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-07-24 04:44:47</sys_created_on>
         <sys_id>8fab84d65327ca1005707ab0a0490eb4</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-07-24 04:51:07</sys_updated_on>
-        <value>active=true^device_request=7042653f93d74610be6d385efaba10de^state=1^priority=2^assigned_to=62826bf03710200044e0bfc8bcbe5df1^short_description=Testing progress^EQ</value>
+        <sys_updated_on>2024-07-26 06:19:57</sys_updated_on>
+        <value>active=true^device_request=f0993dee53674e1005707ab0a0490e0c^state=1^priority=2^assigned_to=62826bf03710200044e0bfc8bcbe5df1^short_description=Testing progress^u_problem_catagory=incorrect responses^EQ</value>
         <variable display_value="Field values">b3dba2465320220002c6435723dc34f0</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">

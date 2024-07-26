@@ -14,7 +14,7 @@
                 <element inactive_on_update="false" label="Hardware Problems" sequence="8" value="hardware problems"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" choice="1" dependent="u_problem_catagory" dependent_on_field="u_problem_catagory" label="Sub Catagory" mandatory="true" max_length="40" name="u_sub_catagory" type="string" use_dependent_field="true">
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="u_problem_catagory" dependent_on_field="u_problem_catagory" label="Sub Catagory" max_length="40" name="u_sub_catagory" type="string" use_dependent_field="true">
             <choice>
                 <element dependent_value="voice recognition issues" inactive_on_update="false" label="Misinterpretation of Commands" sequence="0" value="Misinterpretation of Commands"/>
                 <element dependent_value="voice recognition issues" inactive_on_update="false" label="Inability to Understand Accents" sequence="1" value="Inability to Understand Accents"/>
